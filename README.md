@@ -32,6 +32,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
+### Bot Features 🌅
+### Scroll Right To Left
+
+| YT MENU | GROUP MENU | ADD MENU | STORE MENU | IOS BUGS | EMOJI BUGS | CRASH BUGS | WA CRASH | VIP BUGS | TEMP BAN | AI CHATBOT |
+| --------| ----------- | --------- | ----------- | -------- | ------- | ------ | ------- | --- | ----- | -------- |
+| ✅      |  ✅         |    ✅     |     ✅      |     ✅   |   ✅    |   ✅   |   ✅    |  ✅ |  ✅   |    ✅  |   ✅  | ✅     |
+
+
+--------
 
 
 # CLICK ON BELOW BUTTON TO FORK
@@ -47,7 +56,7 @@
  
 # GET SESSION CREDS.JSON
 
-<a href='https://globalpair-code.onrender.com/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://necessary-margaretha-oletters-ba309cdc.koyeb.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/PAIRING CODE-1-green?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
@@ -92,19 +101,34 @@ src='https://img.shields.io/badge/HOSTING%20PANEL-blue?style=for-the-badge&logo=
 <p align="center">
 
 # DEPLOY IN TERMUX/UBUNTU
-```bash
+```
 apt update && apt upgrade -y
+```
+```
 pkg install proot-distro
+```
+```
 proot-distro install ubuntu
+```
+```
 proot-distro login ubuntu
+```
+```
 apt update && apt upgrade -y
+```
+```
 apt install -y webp git ffmpeg curl imagemagick
+```
+```
 apt -y remove nodejs
 curl -fsSl https://deb.nodesource.com/setup_lts.x | bash - && apt -y install nodejs
+```
+```
 git clone https://github.com/<your gitHub Username>/GLOBAL-BUG
 cd GLOBAL-BUG
-npm install
-npm start
+```
+```
+npm install && npm start
 ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
